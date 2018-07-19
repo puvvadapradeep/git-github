@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 this is differnt file in different branch :wq
+=======
+thanks alot for using this file 
+docor
+java
+programming
+>>>>>>> develop
