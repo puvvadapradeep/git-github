@@ -1,3 +1,5 @@
 this is web sameple doc added newly :wq!
 
-this is for git status  
+this is for git status
+
+this to insert
